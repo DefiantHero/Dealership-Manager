@@ -1,0 +1,15 @@
+C:\Users\Josh\source\repos\Dealership Manager Final Project\Dealership Manager Final Project\bin\Debug\Inventory.mdf
+C:\Users\Josh\source\repos\Dealership Manager Final Project\Dealership Manager Final Project\bin\Debug\Inventory_log.ldf
+C:\Users\Josh\source\repos\Dealership Manager Final Project\Dealership Manager Final Project\bin\Debug\Dealership Manager Final Project.exe.config
+C:\Users\Josh\source\repos\Dealership Manager Final Project\Dealership Manager Final Project\bin\Debug\Dealership Manager Final Project.exe
+C:\Users\Josh\source\repos\Dealership Manager Final Project\Dealership Manager Final Project\bin\Debug\Dealership Manager Final Project.pdb
+C:\Users\Josh\source\repos\Dealership Manager Final Project\Dealership Manager Final Project\bin\Debug\Dealership Manager Final Project.xml
+C:\Users\Josh\source\repos\Dealership Manager Final Project\Dealership Manager Final Project\obj\Debug\Dealership Manager Final Project.vbprojAssemblyReference.cache
+C:\Users\Josh\source\repos\Dealership Manager Final Project\Dealership Manager Final Project\obj\Debug\Dealership_Manager_Final_Project.AllSalesForm.resources
+C:\Users\Josh\source\repos\Dealership Manager Final Project\Dealership Manager Final Project\obj\Debug\Dealership_Manager_Final_Project.MainForm.resources
+C:\Users\Josh\source\repos\Dealership Manager Final Project\Dealership Manager Final Project\obj\Debug\Dealership_Manager_Final_Project.Resources.resources
+C:\Users\Josh\source\repos\Dealership Manager Final Project\Dealership Manager Final Project\obj\Debug\Dealership Manager Final Project.vbproj.GenerateResource.cache
+C:\Users\Josh\source\repos\Dealership Manager Final Project\Dealership Manager Final Project\obj\Debug\Dealership Manager Final Project.vbproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\Dealership Manager Final Project\Dealership Manager Final Project\obj\Debug\Dealership Manager Final Project.exe
+C:\Users\Josh\source\repos\Dealership Manager Final Project\Dealership Manager Final Project\obj\Debug\Dealership Manager Final Project.xml
+C:\Users\Josh\source\repos\Dealership Manager Final Project\Dealership Manager Final Project\obj\Debug\Dealership Manager Final Project.pdb
